@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning new things 📖, food (used to be a chef) 👩‍🍳, and travelling ✈️!
 - 🌱 I’m currently learning TypeScript and PWA's (using JS)
-- 📫 How to reach me burgess.olivia64@gmail.com or [LinkedIn](www.linkedin.com/in/oliveburgess)
+- 📫 How to reach me burgess.olivia64@gmail.com
 - 😄 Pronouns: she/her
 
 - Languages and Tools:
