@@ -1,4 +1,4 @@
-                                                👋 Hi, I’m Olive Burgess
+                                           👋 Hi, I’m Olive Burgess
 
 
 - 👀 I’m interested in learning new things 📖, food (used to be a chef) 👩‍🍳, and travelling ✈️!
