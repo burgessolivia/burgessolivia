@@ -1,5 +1,4 @@
-                                           👋 Hi, I’m Olive Burgess
-
+                                           👋 Hi, I’m Olive 
 
 - 👀 I’m interested in learning new things 📖, food (used to be a chef) 👩‍🍳, and travelling ✈️!
 - 🌱 I’m currently learning TypeScript and PWA's (using JS)
