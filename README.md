@@ -1,7 +1,7 @@
                                              👋 Hi, I’m Olive 
 
 - 👀 I’m interested in learning new things 📖, food (used to be a chef) 👩‍🍳, and travelling ✈️!
-- 🌱 I’m currently learning TypeScript and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me burgess.olivia64@gmail.com
 - 😄 Pronouns: she/her
 
